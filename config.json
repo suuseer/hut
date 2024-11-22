@@ -1,6 +1,6 @@
 {
   "docsDir": "pages/",
-  "homepage": "index.md",
+  "homepage": "blog/index.md",
   "theme": "default",
   "notFoundPage": "404.md",
   "renderedDOMId": "hut-body",
